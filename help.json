@@ -1,0 +1,44 @@
+{
+  "": [
+    "__**HAL 9000 ||| v 0.0.1**__",
+    "available commands:",
+    "```",
+    "help\tsay\tverbose\t...",
+    "```"
+  ],
+  "help" : [
+    "__help__",
+    "usage: `@HAL 9000 help <command>`",
+    "",
+    "```",
+    "Displays format and usage of a command,",
+    "If no command is provided, a list of commands",
+    "And bot info is displayed.",
+    "```",
+    "",
+    "`\"How may I help you, Dave?\"`"
+
+  ],
+  "say" : [
+    "__say__",
+    "usage: `@HAL 9000 say <phrase>`",
+    "",
+    "```",
+    "HAL copies what you say.",
+    "He does it word for word.  Make a fool of him.",
+    "```",
+    "",
+    "`> Maybe he's mocking your inferior intelligence.  Can a computer be a sarcastic prick...?_`"
+  ],
+  "verbose" : [
+    "__verbose__",
+    "usage: `@HAL 9000 verbose <true/false>`",
+    "",
+    "```",
+    "HAL is allowed to speak when verbose is true.",
+    "When false, he is muted.",
+    "```",
+    "",
+    "`> I can't tell what's more unnerving; having him talking, or him being quiet..._`"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "login" : {
+    "email" : "email@example.com",
+    "password" : "password"
+  },
+
+  "ai" : {
+    "name" : "name",
+    "nickname" : "nickname",
+    "gender" : "gender",
+    "birthdate" : "1/01/2000"
+  }
+}
